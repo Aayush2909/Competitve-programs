@@ -4,3 +4,5 @@ These questions come in handy while learning new concepts of data structures as 
 
 List-
 1. Smaller on Right : Based on BST (Binary Search Tree).
+2. Kth largest in a stream : Based on Heap/ Priority Queue. 
+
