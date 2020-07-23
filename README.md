@@ -8,3 +8,5 @@ List-
 3. Sort K-sorted Arrays : Based on Priority Queue using customised datatype and comparator function.
 4. Number of islands in a matrix: Based on DFS traversal
 5. Level of Vertex/Node: A BFS based graph problem.
+6. Dijkastra: An algorithm based on graph traversal.
+7. Sudoku(9x9 grid): A backtracking problem.
